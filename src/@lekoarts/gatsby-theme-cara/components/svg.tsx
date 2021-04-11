@@ -97,4 +97,4 @@ const SVG = ({ stroke = false, color = ``, width, icon, left, top, hiddenMobile 
   </svg>
 )
 
-export default SVG
+//export default SVG
